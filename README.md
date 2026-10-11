@@ -13,3 +13,4 @@ description du commit avec des informatios sur l'evolusion du projet
 '''' 
  git checkout -b develop
  ''''
+ pour les bonnes pratique on va integrer la notion de revuede code
